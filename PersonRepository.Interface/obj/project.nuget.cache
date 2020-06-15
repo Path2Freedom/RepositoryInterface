@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "0wx4c4IFis7GVv89bcPN2kKSriTncmrM5fmGy5/RxykKNJFl5g8CnSpIQZsAf4JGB+lrvDxDFzp8uNZQomH4Kg==",
+  "success": true,
+  "projectFilePath": "E:\\My Applications\\2. Tutorial\\2. Interface\\2. Jeremy Clark\\RepositoryInterface\\PersonRepository.Interface\\PersonRepository.Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\satis\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\satis\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\satis\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\satis\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\satis\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

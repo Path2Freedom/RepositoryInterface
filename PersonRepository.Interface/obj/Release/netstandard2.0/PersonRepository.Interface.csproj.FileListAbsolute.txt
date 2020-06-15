@@ -1,0 +1,9 @@
+E:\My Applications\2. Tutorial\2. Interface\2. Jeremy Clark\RepositoryInterface\PersonRepository.Interface\bin\Release\netstandard2.0\PersonRepository.Interface.deps.json
+E:\My Applications\2. Tutorial\2. Interface\2. Jeremy Clark\RepositoryInterface\PersonRepository.Interface\bin\Release\netstandard2.0\PersonRepository.Interface.dll
+E:\My Applications\2. Tutorial\2. Interface\2. Jeremy Clark\RepositoryInterface\PersonRepository.Interface\bin\Release\netstandard2.0\PersonRepository.Interface.pdb
+E:\My Applications\2. Tutorial\2. Interface\2. Jeremy Clark\RepositoryInterface\PersonRepository.Interface\obj\Release\netstandard2.0\PersonRepository.Interface.AssemblyInfoInputs.cache
+E:\My Applications\2. Tutorial\2. Interface\2. Jeremy Clark\RepositoryInterface\PersonRepository.Interface\obj\Release\netstandard2.0\PersonRepository.Interface.AssemblyInfo.cs
+E:\My Applications\2. Tutorial\2. Interface\2. Jeremy Clark\RepositoryInterface\PersonRepository.Interface\obj\Release\netstandard2.0\PersonRepository.Interface.csproj.CoreCompileInputs.cache
+E:\My Applications\2. Tutorial\2. Interface\2. Jeremy Clark\RepositoryInterface\PersonRepository.Interface\obj\Release\netstandard2.0\PersonRepository.Interface.dll
+E:\My Applications\2. Tutorial\2. Interface\2. Jeremy Clark\RepositoryInterface\PersonRepository.Interface\obj\Release\netstandard2.0\PersonRepository.Interface.pdb
+E:\My Applications\2. Tutorial\2. Interface\2. Jeremy Clark\RepositoryInterface\PersonRepository.Interface\obj\Release\netstandard2.0\PersonRepository.Interface.csprojAssemblyReference.cache
